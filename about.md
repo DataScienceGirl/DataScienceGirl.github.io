@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+As a scientist and modeler, what I love most about my research is the use of programming to analyze and visualize data in order to deepen my understanding of the processes that drive observed trends.
 
-### More Information
+My passion for data analysis and visualization has guided me toward an interest in leveraging my research, analytical, programming, and communication skills in order to contribute to a team of data scientists striving to find actionable solutions to challenging questions.
 
-A place to include any other types of information that you'd like to include about yourself.
+I love being a data scientist because that means that I get to learn every day as I continue to add tools to my data analysis toolbox.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nicolegoebel@gmail.com](mailto:nicolegoebel@gmail.com)
